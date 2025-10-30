@@ -1,7 +1,6 @@
 # Pengenalan HTML
 
-HTML (HyperText Markup Language) adalah bahasa markup yang digunakan
-untuk membuat struktur halaman web.
+HTML (HyperText Markup Language) adalah bahasa markup yang digunakan untuk membuat struktur halaman web.
 
 ## Elemen Dasar
 
