@@ -5,6 +5,17 @@ Tujuannya adalah untuk mempelajari bagaimana cara mengambil file Markdown dari r
 
 ---
 
+## 📚 Lesson contents
+- [🚀 Fitur Utama](#-fitur-utama)
+- [🧠 Tujuan Pembelajaran](#-tujuan-pembelajaran)
+- [⚙️ Teknologi yang Digunakan](#-teknologi-yang-digunakan)
+- [🧩 Struktur Proyek](#-struktur-proyek)
+- [📦 Instalasi dan Setup](#-instalasi-dan-setup)
+- [🧪 Cara Penggunaan](#-cara-penggunaan)
+- [📄 Lisensi](#-lisensi)
+
+---
+
 ## 🚀 Fitur Utama
 
 - Menampilkan daftar lesson dari database  
@@ -33,3 +44,20 @@ Tujuannya adalah untuk mempelajari bagaimana cara mengambil file Markdown dari r
 - MySQL atau PostgreSQL
 - JavaScript (ES Module)
 
+---
+
+## 🧩 Struktur Proyek
+```bash
+project-root/
+│
+├── prisma/
+│   └── schema.prisma
+│
+├── src/
+│   ├── controllers/
+│   ├── routes/
+│   ├── services/
+│   └── index.js
+│
+├── package.json
+└── README.md
