@@ -1,22 +1,11 @@
-# 🧩 Latihan Prisma dan GitHub API
+# Latihan Prisma dan GitHub API
 
 Proyek ini merupakan latihan integrasi **Prisma ORM** dengan **GitHub API (Raw Content)** menggunakan **Express.js**.  
 Tujuannya adalah untuk mempelajari bagaimana cara mengambil file Markdown dari repository GitHub, lalu menyimpannya ke database menggunakan Prisma.
 
 ---
 
-## 📚 Lesson contents
-- [🚀 Fitur Utama](#fitur-utama)
-- [🧠 Tujuan Pembelajaran](#-tujuan-pembelajaran)
-- [⚙️ Teknologi yang Digunakan](#-teknologi-yang-digunakan)
-- [🧩 Struktur Proyek](#-struktur-proyek)
-- [📦 Instalasi dan Setup](#-instalasi-dan-setup)
-- [🧪 Cara Penggunaan](#-cara-penggunaan)
-- [📄 Lisensi](#-lisensi)
-
----
-
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - Menampilkan daftar lesson dari database  
 - Mengambil konten lesson dari GitHub  
@@ -26,7 +15,7 @@ Tujuannya adalah untuk mempelajari bagaimana cara mengambil file Markdown dari r
 
 ---
 
-## 🧠 Tujuan Pembelajaran
+## Tujuan Pembelajaran
 
 1. Memahami penggunaan **Prisma ORM** untuk operasi CRUD  
 2. Belajar cara melakukan **fetch data eksternal** menggunakan `fetch()`  
@@ -35,7 +24,7 @@ Tujuannya adalah untuk mempelajari bagaimana cara mengambil file Markdown dari r
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - Node.js
 - Express.js
@@ -46,7 +35,7 @@ Tujuannya adalah untuk mempelajari bagaimana cara mengambil file Markdown dari r
 
 ---
 
-## 🧩 Struktur Proyek
+## Struktur Proyek
 ```bash
 project-root/
 │
