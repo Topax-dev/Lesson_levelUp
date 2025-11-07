@@ -33,7 +33,3 @@ Tujuannya adalah untuk mempelajari bagaimana cara mengambil file Markdown dari r
 - MySQL atau PostgreSQL
 - JavaScript (ES Module)
 
----
-
-## 📁 Struktur Proyek
-
