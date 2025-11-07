@@ -6,7 +6,7 @@ Tujuannya adalah untuk mempelajari bagaimana cara mengambil file Markdown dari r
 ---
 
 ## 📚 Lesson contents
-- [🚀 Fitur Utama](#-fitur-utama)
+- [🚀 Fitur Utama](#fitur-utama)
 - [🧠 Tujuan Pembelajaran](#-tujuan-pembelajaran)
 - [⚙️ Teknologi yang Digunakan](#-teknologi-yang-digunakan)
 - [🧩 Struktur Proyek](#-struktur-proyek)
