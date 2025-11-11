@@ -1,4 +1,4 @@
-# Latihan Prisma dan GitHub API
+# Latihan Prisma dan GitHub API jembud Pliat jembudddddddddddd
 
 Proyek ini merupakan latihan integrasi **Prisma ORM** dengan **GitHub API (Raw Content)** menggunakan **Express.js**.  
 Tujuannya adalah untuk mempelajari bagaimana cara mengambil file Markdown dari repository GitHub, lalu menyimpannya ke database menggunakan Prisma.
