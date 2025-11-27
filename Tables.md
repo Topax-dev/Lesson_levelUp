@@ -13,13 +13,6 @@ This section contains a general overview of topics that you will learn in this l
 Some data just really needs to be displayed in a table. HTML tables might be less commonly used than buttons, links, lists and everything else you've learned so far, but there are some cases where they're the *perfect* tool. Some of the more advanced features can get a little tricky to set up correctly but getting started with tables is pretty easy. You create a table with `<table></table>` tags and then put the elements for rows, columns, headers, or anything else that's possible inside those table elements.
 
 
-### Assignment
-
-1. Read these [Tables Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics) and [Tables Advanced](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced) tutorials from MDN. They should teach you all the syntax behind HTML tables. It's pretty straightforward. Make sure to code along!
-1. Read through CSS Tricks' [full guide to the table element](https://css-tricks.com/complete-guide-table-element/), which goes very in-depth about what you have already learned and touches on a few extra things. Skip any sections that involve jQuery, advanced JavaScript, or SASS, as they go beyond the scope of this lesson.
-1. Do this [Tables Assessment](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data) from MDN. It's good to put your newly learned skills to practice!
-### Knowledge check
-
 The following questions are an opportunity to reflect on key topics in this lesson. If you can't answer a question, click on it to review the material, but keep in mind you are not expected to memorize or master this knowledge.
 
 - [What is a table?](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics#what_is_a_table_)
